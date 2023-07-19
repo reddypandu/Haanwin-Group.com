@@ -57,6 +57,18 @@ body{
 .new-header ul li:nth-child(3):before {
     content: url("https://www.blueribbonoverseas.com/wp-content/uploads/2021/10/Globe-icon.png");
 }
+.app{
+            position: fixed;
+            width: 60px;
+            height:60px;
+            bottom:20px;
+            right:5px;
+            color:#FFF;
+            border-radius:20px;
+            text-align:center;
+            font-size:30px;
+            z-index: 100;
+        }
 .header {
     overflow: hidden;
     background-color: #333;
