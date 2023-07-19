@@ -9,7 +9,7 @@ body{
     box-sizing: inherit;
 }
 .header-image {
-    width: 150px;
+    width: 100px;
 }
 .grid-container {
     margin-left: auto;
